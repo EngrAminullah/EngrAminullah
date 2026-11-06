@@ -1,124 +1,50 @@
+# 👋 Hi, I'm Aminullah
 
-# 👋 About Me
+**Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-I am a **Full-Stack Developer** with approximately **7–8 years of experience** in software development and technology.
+I am a Software Engineer with **7–8 years of experience** building scalable web applications, mobile solutions, business platforms, and AI-powered products.
 
-I am currently working as a **Senior Software Engineer at Buniah for AI and Data Association** in Riyadh, Saudi Arabia.
+Currently working as a **Senior Software Engineer at Buniah for AI and Data Association, Riyadh, Saudi Arabia.**
 
-My professional journey includes frontend development, backend engineering, mobile application development, business automation, and AI-powered solutions.
-
-## 💻 My Technical Expertise
+### 💻 Tech Stack
 
 - **Frontend:** React.js, Next.js, TypeScript, Angular
-- **Backend:** Node.js, Express.js, NestJS, Python, Flask, FastAPI
+- **Backend:** Node.js, Express.js, NestJS, Python, FastAPI
 - **Mobile:** React Native, Expo
-- **Databases:** MongoDB, Firebase
-- **UI & State Management:** Tailwind CSS, Redux, Context API, React Query
+- **Database:** MongoDB, Firebase
 - **AI/ML:** TensorFlow, TensorFlow.js, Computer Vision
-- **Other:** REST APIs, Authentication, RBAC, API Integrations
+- **Tools:** Git, REST APIs, Redux, Tailwind CSS
 
-## 🚀 My Professional Achievements
+### 🚀 Key Achievements
 
 - Delivered **120+ business applications** from concept to production.
 - Developed **20+ production web applications** at Buniah.
 - Built **3 AI-powered mobile applications**.
+- Experienced in ERP, HR, eCommerce, and business automation.
 - Developed bilingual applications supporting Arabic RTL and English.
-- Worked on ERP, HR, eCommerce, task management, procurement, and business automation platforms.
-- Integrated AI and computer vision capabilities into mobile applications.
 
-## 🛠️ My Major Projects
+### 🏆 Hackathon
 
-| Project | Technology / Focus |
-|---|---|
-| SOCAi | AI-powered dermatology application |
-| Buniah ERP & HR | MERN Stack |
-| Buniah Academy | Next.js, MongoDB |
-| Ramadan Nights | MERN Task Management |
-| Jonah Hub | Multi-vendor Marketplace |
-| Procurement Management | Next.js, Node.js |
-| AI Football Analyzer | AI & Computer Vision |
-| AI Attendance System | TensorFlow & Mobile Development |
-| Strategic KPI Management | Business Intelligence |
+**GovEase – Smart Government Services**
 
-## 🎯 My Career Ambitions
+🥉 Secured **3rd Position** at the AWS AI Academy Hackathon, LEAP 2026, Riyadh.
 
-I am not interested in limiting my career to frontend development. I want to expand my expertise and grow into broader technical and leadership roles.
+### 🌱 Currently Exploring
 
-- Senior Full-Stack Engineer
-- Senior Product Engineer
-- AI Engineer
-- Senior Solutions Architect – Data & AI
-- Agentic AI Developer
+- Python and Machine Learning
+- Generative AI, LLMs, and RAG
+- AI Agents and Agentic AI
+- System Design and Cloud Architecture
 
-I am actively learning Python and exploring Machine Learning, RAG, Generative AI, and AI Agents.
+### 🎯 My Vision
 
-One of my biggest ambitions is to build my own **Personal Agentic AI Platform** that can automate everyday tasks, professional workflows, and repetitive activities.
+My goal is to combine my full-stack engineering experience with AI, system architecture, and product development to build intelligent solutions that solve real-world problems.
 
-## 💡 My Entrepreneurial Mindset
+I am passionate about building useful products, exploring new technologies, and turning ideas into reality.
 
-Alongside my software engineering career, I have a strong interest in entrepreneurship and building independent digital products.
+---
 
-- Multilingual online tools for Pashto, Urdu, and Arabic users.
-- PDF tools with AI-powered features.
-- Ad-supported websites that can generate long-term revenue.
-- AI-powered SaaS products.
-- Digital platforms for businesses and organizations.
-
-My main interest is in building practical products that solve real-world problems and have the potential to become sustainable businesses.
-
-## 🌱 My Personality and Interests
-
-- **Ambitious:** I continuously look for opportunities to grow professionally.
-- **Practical:** I prefer building real-world products rather than focusing only on theory.
-- **Self-driven:** I independently explore new technologies and tools.
-- **Creative:** I enjoy developing ideas and transforming them into working applications.
-- **Growth-oriented:** I am always willing to learn and move beyond my comfort zone.
-- **Emotionally expressive:** I value family, friendships, Pashto poetry, and meaningful words.
-
-I prefer simple, natural, and clear English rather than complicated corporate language.
-
-## 🏆 My Hackathon Achievement
-
-### GovEase – Smart Government Services
-
-I participated in the **AWS AI Academy Hackathon at LEAP 2026** in Riyadh, Saudi Arabia.
-
-My team developed GovEase, an AI-powered agent designed to combine multiple government services into a single conversational experience.
-
-**Achievement: 🥉 3rd Position**
-
-I secured third place with my team in a five-hour hackathon session.
-
-## 🔭 My Future Focus
-
-**1. Full-Stack Engineering**
-
-Strengthening my expertise in React, Next.js, Node.js, system architecture, scalable applications, and software engineering best practices.
-
-**2. AI Engineering**
-
-Expanding my knowledge of Python, Machine Learning, LLMs, RAG, AI Agents, and intelligent automation.
-
-**3. Solutions Architecture**
-
-Developing expertise in system design, cloud platforms, data engineering, AI solutions, and technical leadership.
-
-**4. Entrepreneurship**
-
-Building, launching, and growing my own SaaS products, AI-powered applications, and multilingual digital platforms.
-
-## 🚀 My Overall Professional Vision
-
-I see myself as a software engineer who has built a strong foundation through years of practical experience, real-world projects, and continuous learning.
-
-I have experience delivering production-ready software, working across different technologies, solving business problems, and building complete digital solutions.
-
-My next goal is to combine my full-stack development experience with AI engineering, system architecture, and product development.
-
-**I do not want to leave my software engineering background behind to become a beginner in AI. Instead, I want to become an AI-focused Full-Stack Engineer who can independently design, develop, and deliver complete intelligent products.**
-
-My long-term vision is to grow as a technology leader, build innovative AI-powered products, and eventually establish my own successful technology business.
-
+**Let's connect and build something meaningful!**
 
 
 ## 🌐 Socials:
