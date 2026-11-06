@@ -1,7 +1,7 @@
 
 # 👋 About Me
 
-I am a **Software Engineer / Full-Stack Developer** with approximately **7–8 years of experience** in software development and technology.
+I am a **Full-Stack Developer** with approximately **7–8 years of experience** in software development and technology.
 
 I am currently working as a **Senior Software Engineer at Buniah for AI and Data Association** in Riyadh, Saudi Arabia.
 
