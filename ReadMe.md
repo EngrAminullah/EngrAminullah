@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-I am a Software Engineer with **7–8 years of experience** building scalable web applications, mobile solutions, business platforms, and AI-powered products.
+I am a Software Engineer with **8+ years of experience** building scalable web applications, mobile solutions, business platforms, and AI-powered products.
 
 Currently working as a **Senior Software Engineer at Buniah for AI and Data Association, Riyadh, Saudi Arabia.**
 
